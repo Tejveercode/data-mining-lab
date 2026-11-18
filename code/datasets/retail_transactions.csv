@@ -1,0 +1,5 @@
+tid,bread,milk,butter,diapers
+T1,t,t,t,f
+T2,f,t,f,t
+T3,t,t,f,f
+T4,t,t,t,t
