@@ -1,0 +1,10 @@
+tid,bread,milk,butter,diapers,beer,chips
+T1,t,t,f,f,f,f
+T2,t,t,t,f,f,f
+T3,f,t,t,t,f,f
+T4,t,t,f,f,f,f
+T5,t,f,t,f,t,f
+T6,f,t,f,t,t,t
+T7,t,t,t,f,f,f
+T8,f,f,f,t,t,t
+T9,t,t,f,f,f,f
