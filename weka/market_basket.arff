@@ -1,0 +1,20 @@
+% Experiment 6 / Project 2 - nine transactions, six items.
+@relation market-basket
+
+@attribute bread {t,f}
+@attribute milk {t,f}
+@attribute butter {t,f}
+@attribute diapers {t,f}
+@attribute beer {t,f}
+@attribute chips {t,f}
+
+@data
+t,t,f,f,f,f
+t,t,t,f,f,f
+f,t,t,t,f,f
+t,t,f,f,f,f
+t,f,t,f,t,f
+f,t,f,t,t,t
+t,t,t,f,f,f
+f,f,f,t,t,t
+t,t,f,f,f,f
