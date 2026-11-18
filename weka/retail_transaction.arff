@@ -1,0 +1,14 @@
+% Experiment 6 - the dataset exactly as written in the lab record.
+% Every attribute is nominal {t,f}: t = item present, f = item absent.
+@relation retail-log
+
+@attribute bread {t,f}
+@attribute milk {t,f}
+@attribute butter {t,f}
+@attribute diapers {t,f}
+
+@data
+t,t,t,f
+f,t,f,t
+t,t,f,f
+t,t,t,t
