@@ -1,0 +1,32 @@
+% Experiment 3 (Weka version) - '?' is how ARFF marks a missing value.
+@relation movies
+
+@attribute movie string
+@attribute year numeric
+@attribute rating numeric
+@attribute votes numeric
+@attribute box_office_crore numeric
+@attribute screens numeric
+
+@data
+Dangal,2016,8.4,200000,2020,4300
+PK,2014,8.1,180000,792,4000
+3-Idiots,2009,8.4,300000,395,2200
+Bajrangi-Bhaijaan,2015,8.0,150000,969,4200
+Sultan,2016,7.0,60000,?,3500
+War,2019,6.5,45000,475,3800
+Padmaavat,2018,7.0,40000,585,4000
+Sanju,2018,7.7,55000,588,4500
+Tanhaji,2020,7.5,30000,368,3900
+Gully-Boy,2019,7.9,35000,238,3000
+Kabir-Singh,2019,7.0,90000,379,3500
+Uri,2019,8.2,60000,342,3600
+Chhichhore,2019,7.5,?,150,3000
+Dream-Girl,2019,6.6,25000,?,2800
+Housefull-4,2019,4.0,20000,280,3900
+Race-3,2018,2.9,25000,300,4200
+Thugs-of-Hindostan,2018,4.0,22000,335,5000
+Zero,2018,4.5,18000,180,3000
+Student-of-the-Year-2,2019,2.5,12000,98,3000
+Saaho,2019,5.0,25000,433,4000
+Baahubali-2,2017,8.2,1000000,1810,6500
